@@ -1,0 +1,48 @@
+.fondoimagen {
+  background-color: #e6e6e6;
+}
+
+.papi-cris {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+.Titulogrande {
+  background-color: #c4c4c4;
+}
+
+.backgroundDP {
+    background-color: #999999;
+}
+
+.BACKGROUNDfa {
+    background-color: #999999;
+}
+
+.BackgroundEXL {
+    background-color: #999999;
+}
+
+.back {
+    text-align: center;
+    background-color: #005677;
+}
+
+.imgfooter {
+  width: 1%;
+  color: white;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h1,h2{
+   color: #005677;    
+}
+
+footer {
+    color: white;
+}
